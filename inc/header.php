@@ -11,7 +11,7 @@
 
     <div class="container-flud">
 
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-start">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-blue justify-content-start">
             <a class="navbar-brand" href="index.php">
             <img src="photo/shopping-cart-20377.png" width="50" height="50" class="d-inline-block align-center" alt="">
             Bienvenue sur ma boutique
