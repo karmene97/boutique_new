@@ -33,7 +33,7 @@
                     <a href="index.php?categorie=chemise" class="text-white">Nos belles chemises</a>
                 </li>
                 <li>
-                    <a href="index.php?categorie=tshirt" class="text-white">T-shirt tendance</a>
+                    <a href="index.php?categorie=tshirt" class="text-white">ensembe tendance</a>
                 </li>
                 <li>
                     <a href="index.php?categorie=pull" class="text-white">Pull pour l'hiver</a>
