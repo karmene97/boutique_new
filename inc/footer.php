@@ -1,7 +1,7 @@
             </div>
         </main>
         <!-- Footer -->
-        <footer class="bg-dark page-footer font-small blue pt-4">
+        <footer class="bg-gray page-footer font-small blue pt-4">
 
         <!-- Footer Links -->
         <div class="container-fluid text-center text-md-left">
@@ -82,7 +82,7 @@
 
         <!-- Copyright -->
         <div class="text-white footer-copyright text-center py-3">© 2022 Copyright:
-            <a href="https://mdbootstrap.com/" class="text-white"> Béchir DALY</a>
+            <a href="https://mdbootstrap.com/" class="text-white"> Théodora LAINÉ</a>
         </div>
         <!-- Copyright -->
 
